@@ -58,7 +58,8 @@
   * チーム開発で気をつけることなど
 
 ### 参考書籍
-「」
+「[チーム開発実践入門](http://gihyo.jp/book/2014/978-4-7741-6428-1)」  
+「[GitHub実践入門](http://gihyo.jp/book/2014/978-4-7741-6366-6)」
 
 ### ライセンス
 本文書は、[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)
