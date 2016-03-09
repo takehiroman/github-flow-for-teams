@@ -1,4 +1,4 @@
-# github-flow-for-teams
+# GitHub Flow for Teams
 
 ## 目的
 
