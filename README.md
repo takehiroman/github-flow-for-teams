@@ -56,3 +56,13 @@
 ### 8. 付録
   * 拡張したソースコード全文など
   * チーム開発で気をつけることなど
+
+### 参考書籍
+「」
+
+### ライセンス
+本文書は、[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)
+
+![CC-BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+
+の元で配布されています
