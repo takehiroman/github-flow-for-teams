@@ -22,5 +22,7 @@ $ git commit -m "FizzBuzzプログラム作成"
 $ git push -u origin master
 ~~~
 
+これで，リポジトリの用意と，拡張するためのプログラムの用意が完了しました。
+
 
 
