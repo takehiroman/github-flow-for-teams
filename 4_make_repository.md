@@ -12,8 +12,15 @@
 
 ターミナルで以下のようなコマンドでcloneしてください
 ~~~
-git clone コピーしたURL
+$ git clone コピーしたURL
 ~~~
 
-リポジトリがローカル環境に保存されるので，そのリポジトリ内に移動し，JavaでFizzBuzzプログラムを作成してください。
+リポジトリがローカル環境に保存されるので，そのリポジトリ内に移動し，JavaでFizzBuzzプログラムを作成してください。完成したら，以下のコマンドを入力しGithubに送信してください。
+~~~
+$ git add FizzBuzz.java
+$ git commit -m "FizzBuzzプログラム作成"
+$ git push -u origin master
+~~~
+
+
 
