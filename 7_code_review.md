@@ -30,5 +30,5 @@ LGTMを出したら以下のボタンでプルリクをmasterブランチにMerg
 Mergeが完了したら，AさんもBさんも最新のmasterブランチをgit pull origin masterで取得してください。これで2,3,5での倍数でGithubと表示する機能を拡張したソフトウェアが完成しました。
 最後に，作業の終了したブランチは邪魔になり必要ないので，以下のコマンドで削除してください。
 ~~~
-git push　origin :ブランチ名
+git push　origin :1
 ~~~
