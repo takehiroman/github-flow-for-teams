@@ -6,4 +6,7 @@ Pull　Requestとは，修正したプログラムを元のプロジェクトに
 ~~~
 git push -u origin 1
 ~~~  
-ブランチをpushすると，Github上に以下のようなボタンが表示されます。このCompare & pull requestをクリックしてください。
+ブランチをpushすると，Github上に以下のようなボタンが表示されます。このCompare & pull requestをクリックしてください。  
+![](スクリーンショット 2016-03-12 01.54.43.png)
+すると以下のようなページに移動するので，どのような修正したのかやレビューの依頼をコメントに書いてください。OKなら「Create pull request」を押してPull requestを作成してください。  
+![](スクリーンショット 2016-03-12 01.59.40.png)
