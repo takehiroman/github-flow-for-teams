@@ -7,4 +7,5 @@
 * [リポジトリの作成](4_make_repository.md)
 * [チケットの発行](5_make_ticket.md)
 * [Pull Requestとは](6_pull_request.md)
+* コードレビュー
 
