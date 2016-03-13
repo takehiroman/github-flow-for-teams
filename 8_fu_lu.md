@@ -2,7 +2,7 @@
 
 ## 2,3,5でGithubを表示するプログラム
 
-~~~{.java}
+```java
 public class FizzBuzz{
     public static void main(String[] args){
         for(int i=1; i<=100; i++){
@@ -20,5 +20,5 @@ public class FizzBuzz{
         }
     }
 }
-~~~
+```
 
