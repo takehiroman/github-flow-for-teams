@@ -22,3 +22,9 @@ public class FizzBuzz{
 }
 ```
 
+## チーム開発Githubでやっちゃダメなこと
+#git push -f origin master
+* チーム開発でmasterブランチにpushするとエアガンを所持した主婦が突撃してきます
+* レビューされてないバグが含まれる可能性のある状態でリリース用のmasterに入れないでください
+
+
